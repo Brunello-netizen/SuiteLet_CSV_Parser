@@ -1,0 +1,4 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>SL_CSV_Parser</projectname>
+  <frameworkversion>1.0</frameworkversion>
+</manifest>
